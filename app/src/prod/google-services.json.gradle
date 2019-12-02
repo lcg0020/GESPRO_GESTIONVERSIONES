@@ -1,55 +1,55 @@
 {
- "project_info": {
-   "project_number": "86284097953",
-   "firebase_url": "https://gobees-dev.firebaseio.com",
-   "project_id": "gobees-dev",
-   "storage_bucket": "gobees-dev.appspot.com"
+  "project_info": {
+  "project_number": "141439530142",
+  "firebase_url": "https://gobees-prod.firebaseio.com",
+  "project_id": "gobees-prod",
+  "storage_bucket": "gobees-prod.appspot.com"
  },
-  "client": [
-    {
+ "client": [
+   {
      "client_info": {
-       "mobilesdk_app_id": "1:86284097953:android:85b12b21327f2b13",
+       "mobilesdk_app_id": "1:141439530142:android:443d41831b56ad31",
        "android_client_info": {
-        "package_name": "com.davidmiguel.gobees.dev"
+        "package_name": "com.davidmiguel.gobees"
        }
-      },
-      "oauth_client": [
+     },
+     "oauth_client": [
        {
-         "client_id": "86284097953-uqv99dhe6pfo0fnfmc3b6s153ud2cg25.apps.googleusercontent.com",
-         "client_type": 1,
-          "android_info": {
-           "package_name": "com.davidmiguel.gobees.dev",
-           "certificate_hash": "8be8d172d7b79efc57c69554be6316eb26813f65"
-          }
-       },
-{
-        "client_id": "86284097953-r7eshjf9j3b59r7c8ah7uvf978pv450l.apps.googleusercontent.com",
+        "client_id": "141439530142-dccbf18dq73f83g09rbj31nqktrt7f3o.apps.googleusercontent.com",
+        "client_type": 1,
+        "android_info": {
+          "package_name": "com.davidmiguel.gobees",
+          "certificate_hash": "8be8d172d7b79efc57c69554be6316eb26813f65"
+        }
+      },
+     {
+        "client_id": "141439530142-bp4od1ea9die661nvghfd59d0mmcb52g.apps.googleusercontent.com",
         "client_type": 3
       }
-     ],
+    ],
      "api_key": [
-       {
-         "current_key": "AIzaSyD4gcMEVHeXDNC76up2lCmFi_2VlLJilP8"
-       }
-     ],
-    "services": {
+      {
+        "current_key": "AIzaSyDvF9i80nPidFtqfmA5gar7Y4vUBJ3baeY"
+      }
+    ],
+     "services": {
       "analytics_service": {
-       "status": 1
+        "status": 1
       },
       "appinvite_service": {
-         "status": 2,
-         "other_platform_oauth_client": [
+        "status": 2,
+        "other_platform_oauth_client": [
          {
-           "client_id": "86284097953-r7eshjf9j3b59r7c8ah7uvf978pv450l.apps.googleusercontent.com",
+           "client_id": "141439530142-bp4od1ea9die661nvghfd59d0mmcb52g.apps.googleusercontent.com",
            "client_type": 3
-         }
-        ]
+          }
+         ]
       },
       "ads_service": {
         "status": 2
       }
-     }
-}
+    }
+  }
   ],
-  "configuration_version": "1"
-} 
+ "configuration_version": "1"
+}
